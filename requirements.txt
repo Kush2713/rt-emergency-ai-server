@@ -1,0 +1,11 @@
+Flask
+gunicorn
+flask-cors
+
+# AI Libraries
+transformers
+spacy
+
+# SpaCy's Large English Model (NER)
+# This direct link ensures Render downloads the exact model.
+https://github.com/explosion/spacy-models/releases/download/en_core_web_lg-3.7.1/en_core_web_lg-3.7.1.tar.gz#egg=en_core_web_lg
